@@ -37,4 +37,4 @@ Para abrir e rodar o arquivo SQL (`CuidabemProposta2.sql` e `DML CuidabemPropost
    - Verifique os resultados na aba de saída de mensagens para confirmar a execução bem-sucedida.
 
 **Vídeo de apresentação**
-YouTube = 
+<p>YouTube - https://youtu.be/nt6JW3uFSqc
